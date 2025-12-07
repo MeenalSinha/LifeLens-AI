@@ -1,0 +1,7 @@
+{
+  "name": "LifeLens AI",
+  "description": "A multimodal assistant that simplifies complex documents and real-world information using advanced AI reasoning.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
